@@ -1,2 +1,3 @@
 this is my file 1 for git course. 
 add one line to file 1
+add second line to file 1
