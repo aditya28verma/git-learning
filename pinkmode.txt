@@ -1,1 +1,3 @@
 this is pink mode for the website.
+
+Making Changes in the pink mode branch.
