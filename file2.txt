@@ -1,6 +1,6 @@
 this is my file 2 for git course.
 this is my second commit for git course.
-
+Update the text file in the text branch.
 add marketing into file 2
 
 add footer 
